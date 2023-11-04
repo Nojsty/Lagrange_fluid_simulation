@@ -5,3 +5,4 @@ Fragment shaders used to smooth out particles used as a mean for Lagrange fluid 
 * normals FS: Computing normal vectors for the fluid's surface.
 * lighting FS: Blinn-Phong specular lighting model for the fluid's surface.
 
+![plot](./Fluid.png "Particles representing fluid")
